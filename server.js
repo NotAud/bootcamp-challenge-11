@@ -10,7 +10,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
+// Api Router
 app.use("/api", apiRouter);
+// View Router
 app.use("/", viewRouter);
 
 app.listen(PORT, () => {
