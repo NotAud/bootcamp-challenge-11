@@ -17,7 +17,7 @@ Simply clone the repo, run "npm i", then "npm run start".
 ## Usage
 
 Run the nodejs script and visit the outputted link to use the note taking app.
-[Example Video](https://youtu.be/Zk7EyRjkVGw)
+[Example Video](https://youtu.be/ZvScvZlN9jU)
 
 ## License
 
